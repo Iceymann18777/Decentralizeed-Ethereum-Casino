@@ -1,3 +1,7 @@
-# github-u5pjgu
+# Decentralizeed-Ethereum-Casino
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-u5pjgu)
+[Built With Love Enjoy ⚡️](https://stackblitz.com/edit/github-u5pjgu)
+
+## Any Suggesion on proving the project please notfy me or create good first issue please thank you..!!
+
+[link to an open source](https://localhost3000) =>| (:) |<= ..🐱‍🏍🐱‍👤௹$$$
